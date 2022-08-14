@@ -51,7 +51,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 (Türkçe)</a>
 - <a href="https://www.udemy.com/course/sifirdan-zirveye-adim-adim-bol-uygulamali-java-kursu/">Emre Altunbilek Sıfırdan Zirveye Adım Adım Bol Uygulamalı Java Kursu (Türkçe)</a>
 
-#Python
+# Python
 - <a href="https://python-istihza.yazbel.com">Python YazBel Notları (Türkçe)</a>
 - <a href="https://www.youtube.com/watch?v=XKHEtdqhLK8&t=62s">12 Saatlik Python Full Course (İngilizce)</a>
 - <a href="https://www.youtube.com/watch?v=8DvywoWv6fI&t=43889s">Python for Everybody - Full University Python Course(İngilizce)</a>
