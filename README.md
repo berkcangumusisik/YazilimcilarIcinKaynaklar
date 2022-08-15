@@ -22,8 +22,10 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - <a href="https://youtube.com/playlist?list=PLKnjBHu2xXNNQJehhCg--CzQQMHXTsFAb">Murat Yücedağ'ın 100 Derslik MVC Proje Kampı (Türkçe)</a>
 - <a href="https://youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci">Murat Yücedağ'ın 150 Derslik ASP.NET Core Proje Kampı (Türkçe)</a>
 - <a href="https://www.udemy.com/course/net5aspnetcore5blog/"> Alper Tunga'nın ASP.NET Core 5.0 Katmanlı Mimari ile Blog Uygulaması Udemy Kursu (Türkçe)</a>
-- <a href="https://www.udemy.com/course/aspnet-core-5-ile-adim-adim-web-gelistirme/">Murat Yücedağ Asp.Net Core 5.0 ile Adım Adım Web Geliştirme Udemy Kursu (Türkçe)</a>
-
+- <a href="https://www.udemy.com/course/aspnet-core-5-ile-adim-adim-web-gelistirme/">Murat Yücedağ Asp.Net Core 5.0 ile Adım Adım Web Geliştirme Udemy Kursu (Türkçe</a>
+- <a href="https://www.youtube.com/playlist?list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_">Kenan Yıldırım - Asp.Net Core Web Api Dersleri</a>
+- <a href="https://www.youtube.com/playlist?list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp">Kenan Yıldırım - Asp.Net MVC dersleri</a>
+  
 # Arduino
 - <a href="https://youtube.com/playlist?list=PLDRcccSktQd5mfXDtGv975V77RCrW6H7U"> Robotistan Arduino Dersleri (Türkçe)</a>
 - <a href="https://youtube.com/playlist?list=PLSuhOGv534vS1MNrvdFhBovGIbofssf9r"> Sende Kod Yaz Arduino Dersleri (Türkçe)</a>
