@@ -35,6 +35,12 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Sende Kod Yaz Arduino Dersleri (Türkçe)](https://youtube.com/playlist?list=PLSuhOGv534vS1MNrvdFhBovGIbofssf9r)
 - [Robolink Youtube Kanalı (Türkçe)](https://www.youtube.com/c/RobolinkTeknoloji)
 
+## Bilgisayar Bilimleri
+- [Açık Kaynak Bilgisayar Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri)
+- [Bilgisayar Bilimleri Dokümantasyonları](https://t.me/computersciencelab)
+
+
+
 ## C\#
 
 - [Murat Yücedağ Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti (Türkçe)](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/)
