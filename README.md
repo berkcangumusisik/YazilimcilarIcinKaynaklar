@@ -48,9 +48,6 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Açık Kaynak Bilgisayar Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri)
 - [Bilgisayar Bilimleri Dokümantasyonları](https://t.me/computersciencelab)
 
-
->>>>>>> 4e18841533488ac848cd6305ce696dbcf009ef6b
-
 ## C\#
 
 - [Murat Yücedağ Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti (Türkçe)](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/)
