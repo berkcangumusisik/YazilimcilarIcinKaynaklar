@@ -89,3 +89,11 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine (Türkçe)](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/)
 - [Komple Uygulamalı Web Geliştirme Eğitimi (130+ Saat) | .NET (Türkçe)](https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/)
 - [Become a Full-Stack Web Developer (İngilizce)](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer?u=104071146)
+
+## React
+- [Didem Küçükkaraaslan - React Hooks](https://www.youtube.com/playlist?list=PLDq0IUpYONvRVJbqIrPDmA7Q1P0sKaCrK)
+- [Didem Küçükkaraaslan - React Testing Library & Jest](https://www.youtube.com/playlist?list=PLDq0IUpYONvR4YnTlGpVnEdEdXnWERDpq)
+- [Tayfun Erbilen - React ile Proje Geliştirme Serisi](https://www.youtube.com/playlist?list=PLfAfrKyDRWrGXWpnJdyC4yXIW6v-PcFu-)
+- [Orçun Tuna - React Türkçe Kaynak](https://github.com/orcuntuna/react-turkce-kaynak/)
+- [Yavuz Akıncı - A'dan Z'ye React](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
+- [Ömer Gülçiçek - React Türkçe Kaynak](https://omergulcicek.github.io/react/)
