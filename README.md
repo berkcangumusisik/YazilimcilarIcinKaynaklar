@@ -11,7 +11,11 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Turkcell Geleceği Yazanlar (Türkçe)](https://gelecegiyazanlar.turkcell.com.tr)
 - [Engin Demiroğ (100+ Saat) Aranan Programcı Olma Kamp Kursu | Python, Java, C# (Türkçe)](https://www.udemy.com/course/programcilik-kursu/)
 - [Kodlama.io](https://kodlama.io/)
-  
+- [Google Developer Communities Turkey Youtube](https://www.youtube.com/c/GoogleDevelopersTurkey/videos)
+- [BTK Akademi](https://www.btkakademi.gov.tr/portal)
+- [Tutorials Point Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+
 ## Kodlama Bilgilerinizi Taze Tutacak Kaynaklar
 
 - [Hackerrank (İngilizce)](https://www.hackerrank.com)
@@ -34,6 +38,10 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Robotistan Arduino Dersleri (Türkçe)](https://youtube.com/playlist?list=PLDRcccSktQd5mfXDtGv975V77RCrW6H7U)
 - [Sende Kod Yaz Arduino Dersleri (Türkçe)](https://youtube.com/playlist?list=PLSuhOGv534vS1MNrvdFhBovGIbofssf9r)
 - [Robolink Youtube Kanalı (Türkçe)](https://www.youtube.com/c/RobolinkTeknoloji)
+
+## C++
+
+- [by The Cherno Youtube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ## C\#
 
@@ -83,3 +91,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine (Türkçe)](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/)
 - [Komple Uygulamalı Web Geliştirme Eğitimi (130+ Saat) | .NET (Türkçe)](https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/)
 - [Become a Full-Stack Web Developer (İngilizce)](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer?u=104071146)
+
+## İngilizce
+
+- [engVid](https://www.engvid.com/)
