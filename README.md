@@ -11,13 +11,18 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Turkcell Geleceği Yazanlar (Türkçe)](https://gelecegiyazanlar.turkcell.com.tr)
 - [Engin Demiroğ (100+ Saat) Aranan Programcı Olma Kamp Kursu | Python, Java, C# (Türkçe)](https://www.udemy.com/course/programcilik-kursu/)
 - [Kodlama.io](https://kodlama.io/)
-  
+- [Google Developer Communities Turkey Youtube](https://www.youtube.com/c/GoogleDevelopersTurkey/videos)
+- [BTK Akademi](https://www.btkakademi.gov.tr/portal)
+- [Tutorials Point Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+
 ## Kodlama Bilgilerinizi Taze Tutacak Kaynaklar
 
 - [Hackerrank (İngilizce)](https://www.hackerrank.com)
 - [Coderbyte (İngilizce)](https://coderbyte.com)
 - [Codewars (İngilizce)](https://www.codewars.com)
 - [Leetcode (İngilizce)](https://leetcode.com/)
+- [CodeSignal (İngilizce)](https://codesignal.com)
 
 ## ASP.NET
 
@@ -35,11 +40,14 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Sende Kod Yaz Arduino Dersleri (Türkçe)](https://youtube.com/playlist?list=PLSuhOGv534vS1MNrvdFhBovGIbofssf9r)
 - [Robolink Youtube Kanalı (Türkçe)](https://www.youtube.com/c/RobolinkTeknoloji)
 
+## C++
+
+- [The Cherno Youtube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
 ## Bilgisayar Bilimleri
+
 - [Açık Kaynak Bilgisayar Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri)
 - [Bilgisayar Bilimleri Dokümantasyonları](https://t.me/computersciencelab)
-
-
 
 ## C\#
 
@@ -90,6 +98,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Komple Uygulamalı Web Geliştirme Eğitimi (130+ Saat) | .NET (Türkçe)](https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/)
 - [Become a Full-Stack Web Developer (İngilizce)](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer?u=104071146)
 
+
 ## React
 - [Didem Küçükkaraaslan - React Hooks](https://www.youtube.com/playlist?list=PLDq0IUpYONvRVJbqIrPDmA7Q1P0sKaCrK)
 - [Didem Küçükkaraaslan - React Testing Library & Jest](https://www.youtube.com/playlist?list=PLDq0IUpYONvR4YnTlGpVnEdEdXnWERDpq)
@@ -97,3 +106,8 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Orçun Tuna - React Türkçe Kaynak](https://github.com/orcuntuna/react-turkce-kaynak/)
 - [Yavuz Akıncı - A'dan Z'ye React](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
 - [Ömer Gülçiçek - React Türkçe Kaynak](https://omergulcicek.github.io/react/)
+
+
+## İngilizce
+- [engVid](https://www.engvid.com/)
+
