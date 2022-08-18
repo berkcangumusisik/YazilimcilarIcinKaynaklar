@@ -16,6 +16,10 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Tutorials Point Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
+## Roadmaps
+
+- [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap/e083dd847dd34b02474e0ff0154c91802bf7f354/English/Graph/roadmap.svg)
+
 ## Kodlama Bilgilerinizi Taze Tutacak Kaynaklar
 
 - [Hackerrank (İngilizce)](https://www.hackerrank.com)
@@ -100,6 +104,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 
 
 ## React
+
 - [Didem Küçükkaraaslan - React Hooks](https://www.youtube.com/playlist?list=PLDq0IUpYONvRVJbqIrPDmA7Q1P0sKaCrK)
 - [Didem Küçükkaraaslan - React Testing Library & Jest](https://www.youtube.com/playlist?list=PLDq0IUpYONvR4YnTlGpVnEdEdXnWERDpq)
 - [Tayfun Erbilen - React ile Proje Geliştirme Serisi](https://www.youtube.com/playlist?list=PLfAfrKyDRWrGXWpnJdyC4yXIW6v-PcFu-)
@@ -109,5 +114,5 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 
 
 ## İngilizce
-- [engVid](https://www.engvid.com/)
 
+- [engVid](https://www.engvid.com/)
