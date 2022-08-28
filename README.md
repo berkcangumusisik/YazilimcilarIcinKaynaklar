@@ -27,6 +27,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Codewars (İngilizce)](https://www.codewars.com)
 - [Leetcode (İngilizce)](https://leetcode.com/)
 - [CodeSignal (İngilizce)](https://codesignal.com)
+- [Exercism (İngilizce)](https://exercism.org)
 
 ## ASP.NET
 
@@ -66,8 +67,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Veli Bacık Temelden İleri Seviyeye Flutter (Türkçe)](https://youtube.com/playlist?list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l)
 - [Dijital Atölye Flutter ile Uygulama Geliştirin (Türkçe)](https://learndigital.withgoogle.com/dijitalatolye/course/develop-app-flutter)
 - [Emre Altunbilek Sıfırdan Flutter ile Android ve Ios Apps Development (Türkçe)](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/)
-- [Kasım Adalan Flutter ile Uygulama Geliştirme Kursu | Android & IOS | 2022
-(Türkçe)](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
+- [Kasım Adalan Flutter ile Uygulama Geliştirme Kursu | Android & IOS | 2022 (Türkçe)](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 - [Linkedin Learning Angela Yu ile Flutter Geliştirme (İngilizce)](https://www.linkedin.com/learning/instructors/angela-yu?u=104071146)
 
 ## Java
@@ -76,8 +76,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Akın Kaldıroğlu Java ile Nesne-Merkezli Programlamaya Giriş (Türkçe)](https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/)
 - [Akın Kaldıroğlu Java ile Nesne-Merkezli ve Fonksiyonel Programlama (Türkçe)](https://www.udemy.com/course/java-ile-nesne-merkezli-ve-fonksiyonel-programlama/)
 - [Mimar Aslan Udemy Kursları (Türkçe)](https://www.udemy.com/user/mimaraslan/)
-- [Mustafa Murat Coşkun (42 Saat) Sıfırdan Komple Java Geliştirici Kursu
- (Türkçe)](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/)
+- [Mustafa Murat Coşkun (42 Saat) Sıfırdan Komple Java Geliştirici Kursu (Türkçe)](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/)
 - [Emre Altunbilek Sıfırdan Zirveye Adım Adım Bol Uygulamalı Java Kursu  (Türkçe)](https://www.udemy.com/course/sifirdan-zirveye-adim-adim-bol-uygulamali-java-kursu/)
 
 ## Python
@@ -90,9 +89,9 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Mustafa Murat Coşkun (40+ Saat) Python | Sıfırdan İleri Seviye Programlama (2020)(Türkçe)](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
 - [(50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning (Türkçe)](https://www.udemy.com/course/python-egitimi/)
 - [Python ile Sıfırdan İleri Seviye Programlama (Türkçe)](https://www.udemy.com/course/python-dersleri/)
-- [Python | Proje ve Uygulama ile Sıfırdan Zirveye Programlama
- (Türkçe)](https://www.udemy.com/course/python-proje-ve-uygulama-ile-sifirdan-zirveye-programlama/)
+- [Python | Proje ve Uygulama ile Sıfırdan Zirveye Programlama (Türkçe)](https://www.udemy.com/course/python-proje-ve-uygulama-ile-sifirdan-zirveye-programlama/)
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022 (İngilizce)](https://www.udemy.com/course/100-days-of-code/)
+
 
 ## Web Programlama
 
@@ -102,7 +101,6 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Komple Uygulamalı Web Geliştirme Eğitimi (130+ Saat) | .NET (Türkçe)](https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/)
 - [Become a Full-Stack Web Developer (İngilizce)](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer?u=104071146)
 
-
 ## React
 
 - [Didem Küçükkaraaslan - React Hooks](https://www.youtube.com/playlist?list=PLDq0IUpYONvRVJbqIrPDmA7Q1P0sKaCrK)
@@ -111,6 +109,14 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Orçun Tuna - React Türkçe Kaynak](https://github.com/orcuntuna/react-turkce-kaynak/)
 - [Yavuz Akıncı - A'dan Z'ye React](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
 - [Ömer Gülçiçek - React Türkçe Kaynak](https://omergulcicek.github.io/react/)
+
+## Go
+
+- [Go Programlama Dili - Kaan Kuşcu](https://go.kaanksc.com)
+- [GoByExample](https://gobyexample.com/hello-world)
+- [Go Bootcamp](http://www.golangbootcamp.com/book/intro)
+- [Gophercises](https://gophercises.com)
+- [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/)
 
 
 ## İngilizce
