@@ -28,6 +28,10 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Leetcode (İngilizce)](https://leetcode.com/)
 - [CodeSignal (İngilizce)](https://codesignal.com)
 - [Exercism (İngilizce)](https://exercism.org)
+- [Alphacode (İngilizce)](https://alphacode.deepmind.com/)
+- [Codility (İngilizce)](https://app.codility.com/programmers/)
+- [Hackerearth-Codemonk (İngilizce)](https://www.hackerearth.com/practice/codemonk/)
+- [Interviewbit (İngilizce)](https://www.interviewbit.com/)
 
 ## ASP.NET
 
