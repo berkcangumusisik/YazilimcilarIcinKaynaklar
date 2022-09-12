@@ -1,8 +1,10 @@
-# Yazılımcılar İçin Kaynaklar 📚
+# Yazılımcılar için Kaynaklar/Resources for Programmers 📚
 
-Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynaklara erişebilirsiniz. Bu repo günlük güncellenecektir ve sizlerde ekleme yapabilirsiniz.
+Aşağıdaki linkler vasıtasıyla yazılımcılar için önerilen kaynaklara (ücretli veya ücretsiz) erişebilirsiniz. Bu repo sık sık güncellenecektir, sizler de ekleme yapabilirsiniz.
 
-## Genel Kaynaklar
+You can access the resources (paid or free) recommended for software developers via the links below. This repo will be updated frequently, you can add it too.
+
+## Genel Kaynaklar/General Resources
 
 - [Patika.dev (Türkçe)](https://www.patika.dev/tr)
 - [Free Code Camp (İngilizce)](https://www.freecodecamp.org)
@@ -20,7 +22,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 
 - [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap/e083dd847dd34b02474e0ff0154c91802bf7f354/English/Graph/roadmap.svg)
 
-## Kodlama Bilgilerinizi Taze Tutacak Kaynaklar
+## Uygulama Ortamları/Practicing Environments
 
 - [Hackerrank (İngilizce)](https://www.hackerrank.com)
 - [Coderbyte (İngilizce)](https://coderbyte.com)
@@ -32,6 +34,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Codility (İngilizce)](https://app.codility.com/programmers/)
 - [Hackerearth-Codemonk (İngilizce)](https://www.hackerearth.com/practice/codemonk/)
 - [Interviewbit (İngilizce)](https://www.interviewbit.com/)
+- Python - [Practicepython (İngilizce)](https://www.practicepython.org/)
 
 ## ASP.NET
 
@@ -53,7 +56,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 
 - [The Cherno Youtube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
-## Bilgisayar Bilimleri
+## Bilgisayar Bilimleri/Computer Science
 
 - [Açık Kaynak Bilgisayar Bilimleri](https://github.com/huseyingulsin/Acik-Kaynak-Bilgisayar-Bilimleri)
 - [Bilgisayar Bilimleri Dokümantasyonları](https://t.me/computersciencelab)
@@ -97,7 +100,7 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022 (İngilizce)](https://www.udemy.com/course/100-days-of-code/)
 
 
-## Web Programlama
+## Web Programlama/Web Programming
 
 - [The Complete 2022 Web Development Bootcamp(İngilizce)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Komple Uygulamalı Web Geliştirme Eğitimi (Türkçe)](https://www.udemy.com/course/komple-web-developer-kursu/)
@@ -123,6 +126,6 @@ Aşağıdan yazılımcılar için önerdiğim tüm ücretli ve ücretsiz kaynakl
 - [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/)
 
 
-## İngilizce
+## İngilizce/English
 
 - [engVid](https://www.engvid.com/)
