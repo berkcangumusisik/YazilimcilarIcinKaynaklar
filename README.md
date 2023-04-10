@@ -17,10 +17,13 @@ You can access the resources (paid or free) recommended for software developers 
 - [BTK Akademi](https://www.btkakademi.gov.tr/portal)
 - [Tutorials Point Library](https://www.tutorialspoint.com/tutorialslibrary.htm)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Roadmaps](https://roadmap.sh/roadmaps)
 
 ## Roadmaps
 
 - [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap/e083dd847dd34b02474e0ff0154c91802bf7f354/English/Graph/roadmap.svg)
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+- [Backend Developer Roadmap](https://roadmap.sh/backend)
 
 ## Uygulama Ortamları/Practicing Environments
 
@@ -101,12 +104,18 @@ You can access the resources (paid or free) recommended for software developers 
 
 
 ## Web Programlama/Web Programming
-
+- [The Odin Project - Full stack curriculum](https://www.theodinproject.com/)
 - [The Complete 2022 Web Development Bootcamp(İngilizce)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Komple Uygulamalı Web Geliştirme Eğitimi (Türkçe)](https://www.udemy.com/course/komple-web-developer-kursu/)
 - [Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine (Türkçe)](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/)
 - [Komple Uygulamalı Web Geliştirme Eğitimi (130+ Saat) | .NET (Türkçe)](https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/)
+- [Yunus Eş - Zero to Hero - FrontEnd Developer](https://www.youtube.com/playlist?list=PLYE3jV7UyBBeGeJlQuZWWoC7PL8zyI9OP)
 - [Become a Full-Stack Web Developer (İngilizce)](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer?u=104071146)
+- [Codevolution](https://www.youtube.com/@Codevolution)
+
+## CSS
+- [Kevin Powell](https://www.youtube.com/@KevinPowell/videos)
+- [frontendfyi](https://www.youtube.com/@frontendfyi)
 
 ## React
 
@@ -116,7 +125,20 @@ You can access the resources (paid or free) recommended for software developers 
 - [Orçun Tuna - React Türkçe Kaynak](https://github.com/orcuntuna/react-turkce-kaynak/)
 - [Yavuz Akıncı - A'dan Z'ye React](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
 - [Ömer Gülçiçek - React Türkçe Kaynak](https://omergulcicek.github.io/react/)
-
+- [Muhteşem React](https://github.com/dukeofsoftware/muhtesem-react)
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos)
+- [Sonny Sangha - React, Next.js](https://www.youtube.com/@SonnySangha/videos)
+- [Jack Herrington](https://www.youtube.com/@jherr)
+- [CoderOne](https://www.youtube.com/@CoderOne/videos)
+## Next.js
+- [Sıfırdan, İleri Seviye Next.js 13 ile Web App Geliştirme
+](https://www.udemy.com/course/sifirdan-ileri-seviye-nextjs-13-ile-web-app-gelistirme/)
+- [Mehmet Pekcan](https://www.youtube.com/@pekcanmehmet/featured)
+- [Shadee Merhi](https://www.youtube.com/@shadmerhi/videos)
+- [React & Next js Projects with Sahand](https://www.youtube.com/@reactproject/videos)
+- [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
+- [Code With Antonio](https://www.youtube.com/@codewithantonio)
+- [Clever Programmer](https://www.youtube.com/@CleverProgrammer/videos)
 ## Go
 
 - [Go Programlama Dili - Kaan Kuşcu](https://go.kaanksc.com)
